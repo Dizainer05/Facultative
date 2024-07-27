@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0441%\\21day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\facultativform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\facultativform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\studentaddfacultativ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\studentaddfacultativ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|f:\\\u0441%\\21day\\21day\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\facultativerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\facultativerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\facultative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\facultative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\surnal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\surnal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\surnal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\surnal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|F:\\\u0441%\\21day\\21day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B773206-0043-4F74-BD2E-B04FCF550FF9}|21day\\21day.csproj|solutionrelative:21day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\StudentForm.cs",
+              "RelativeDocumentMoniker": "21day\\StudentForm.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\StudentForm.cs",
+              "RelativeToolTip": "21day\\StudentForm.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwKQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:47:24.226Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Surnal.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Surnal.cs",
+              "RelativeDocumentMoniker": "21day\\Surnal.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Surnal.cs",
+              "RelativeToolTip": "21day\\Surnal.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAjwJEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:06:53.457Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datab.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Datab.cs",
+              "RelativeDocumentMoniker": "21day\\Datab.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Datab.cs",
+              "RelativeToolTip": "21day\\Datab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:46:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Facultative.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Facultative.cs",
+              "RelativeDocumentMoniker": "21day\\Facultative.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Facultative.cs",
+              "RelativeToolTip": "21day\\Facultative.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:20:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\StudentForm.cs",
+              "RelativeDocumentMoniker": "21day\\StudentForm.cs",
+              "ToolTip": "E:\\\u0441%\\21day\\21day\\StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:37:54.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAddFacultativ.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\StudentAddFacultativ.cs",
+              "RelativeDocumentMoniker": "21day\\StudentAddFacultativ.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\StudentAddFacultativ.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "21day\\StudentAddFacultativ.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:04:23.491Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacultativForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\FacultativForm.cs",
+              "RelativeDocumentMoniker": "21day\\FacultativForm.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\FacultativForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "21day\\FacultativForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:04:09.018Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Students.cs",
+              "RelativeDocumentMoniker": "21day\\Students.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Students.cs",
+              "RelativeToolTip": "21day\\Students.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:14:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacultativeRecord.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\FacultativeRecord.cs",
+              "RelativeDocumentMoniker": "21day\\FacultativeRecord.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\FacultativeRecord.cs",
+              "RelativeToolTip": "21day\\FacultativeRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:28:04.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Program.cs",
+              "RelativeDocumentMoniker": "21day\\Program.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Program.cs",
+              "RelativeToolTip": "21day\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:46:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Surnal.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Surnal.cs",
+              "RelativeDocumentMoniker": "21day\\Surnal.cs",
+              "ToolTip": "E:\\\u0441%\\21day\\21day\\Surnal.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:04:37.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\\u0441%\\21day\\21day\\Form1.cs",
+              "RelativeDocumentMoniker": "21day\\Form1.cs",
+              "ToolTip": "F:\\\u0441%\\21day\\21day\\Form1.cs",
+              "RelativeToolTip": "21day\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:09:59.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
